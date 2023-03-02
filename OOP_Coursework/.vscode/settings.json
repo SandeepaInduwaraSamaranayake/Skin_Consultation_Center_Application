@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/console_application/Libraries/UCanAccess/bcprov-jdk15on-152 .jar",
+        "src/console_application/Libraries/UCanAccess/commons-lang3-3.8.1.jar",
+        "src/console_application/Libraries/UCanAccess/commons-logging-1.2.jar",
+        "src/console_application/Libraries/UCanAccess/hsqldb-2.5.0.jar",
+        "src/console_application/Libraries/UCanAccess/jackcess-3.0.1.jar",
+        "src/console_application/Libraries/UCanAccess/jackcess-encrypt-2.1.0.jar",
+        "src/console_application/Libraries/UCanAccess/ucanaccess-5.0.1.jar"
+    ],
+    "cmake.configureOnOpen": false
+}

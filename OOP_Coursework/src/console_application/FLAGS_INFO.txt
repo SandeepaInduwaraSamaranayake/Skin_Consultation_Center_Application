@@ -1,0 +1,43 @@
+Error Flag Identifier              Throwing Class                               Throwing Method
+
+1                                  InputReceiver                                inputGetFirstName()
+2                                  InputReceiver                                inputGetTimeSlot()
+3                                  InputReceiver                                inputGetDOB()
+4                                  InputReceiver                                inputGetMobileNumber()
+5                                  InputReceiver                                inputGetAddress()
+6                                  InputReceiver                                inputGetMedLicenceNo()
+7                                  InputReceiver                                inputGetSpecialisation()
+8                                  WestminsterSkinConsultationManager           viewConsultations()
+9                                  WestminsterSkinConsultationManager           viewDoctors()
+10                                 WestminsterSkinConsultationManager           callActions( String userInput)
+11                                 DatabaseConnector                            DatabaseConnector()
+12                                 WestminsterSkinConsultationManager           addConsultations()
+13                                 InputReceiver                                inputGetPatientRequirement()
+14                                 WestminsterSkinConsultationManager           deleteDoctor()
+15                                 WestminsterSkinConsultationManager           savetoFile()
+16                                 InputReceiver                                inputGetConsultationId()
+17                                 WestminsterSkinConsultationManager           cancelConsultations()
+18                                 WestminsterSkinConsultationManager           loadData()
+19                                 WestminsterSkinConsultationManager           viewPatients()
+20                                 WestminsterSkinConsultationManager           checkAvailableTimeslots()
+
+
+DB username - Admin
+DB password - root
+
+image paths - image/backdrop.png
+
+Time slot id
+
+ID                        TimeSlot
+
+1                         9am  - 10am
+2                         10am - 11am
+3                         11am - 12pm
+4                         1pm  - 2pm
+5                         2pm  - 3pm
+6                         3pm  - 4pm
+7                         5pm  - 6pm
+8                         6pm  - 7pm
+9                         7pm  - 8pm
+10                        9pm - 10pm
